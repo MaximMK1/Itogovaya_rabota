@@ -8,3 +8,10 @@ for (int i = 0; i < array.Length; i++)
 
 string[] resultArray = new string[count];
 
+int step = 0;
+for (int i = 0; i < array.Length; i++)
+{
+    int temp = step;
+    if (array[i].Length <= 3) step++;
+    if (temp != step) resultArray[step-1] = array[i];
+}
