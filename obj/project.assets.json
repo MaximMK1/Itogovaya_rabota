@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\GeekBrains\\С#\\-_Sharp_All\\Itogovaya_Rabota\\Itogovaya_Rabota.csproj",
+      "projectUniqueName": "C:\\GeekBrains\\С#\\Itogovaya_Rabota\\Itogovaya_Rabota.csproj",
       "projectName": "Itogovaya_Rabota",
-      "projectPath": "C:\\GeekBrains\\С#\\-_Sharp_All\\Itogovaya_Rabota\\Itogovaya_Rabota.csproj",
+      "projectPath": "C:\\GeekBrains\\С#\\Itogovaya_Rabota\\Itogovaya_Rabota.csproj",
       "packagesPath": "C:\\Users\\Максим\\.nuget\\packages\\",
-      "outputPath": "C:\\GeekBrains\\С#\\-_Sharp_All\\Itogovaya_Rabota\\obj\\",
+      "outputPath": "C:\\GeekBrains\\С#\\Itogovaya_Rabota\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Максим\\AppData\\Roaming\\NuGet\\NuGet.Config"
