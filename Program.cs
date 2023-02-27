@@ -15,3 +15,10 @@ for (int i = 0; i < array.Length; i++)
     if (array[i].Length <= 3) step++;
     if (temp != step) resultArray[step-1] = array[i];
 }
+
+Console.Write("[");
+for (int i = 0; i < resultArray .Length; i++)
+{
+    Console.Write($"{resultArray [i]}, ");
+}
+Console.Write("\b\b]");
